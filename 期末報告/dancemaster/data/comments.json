@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "video_id": 1,
+        "user_id": 2,
+        "user_name": "林老師",
+        "user_role": 1,
+        "text": "副歌第 3 拍重心要再壓低，建議用 0.5x 先抓 weight shift，再回到原速。",
+        "created": "2026-05-29"
+    },
+    {
+        "id": 2,
+        "video_id": 1,
+        "user_id": 1,
+        "user_name": "Chaewon",
+        "user_role": 0,
+        "text": "鏡面模式救了我，終於不用左右腦反轉了 🙏",
+        "created": "2026-05-29"
+    }
+]
